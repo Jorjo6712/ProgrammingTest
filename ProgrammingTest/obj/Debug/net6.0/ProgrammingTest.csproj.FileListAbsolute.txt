@@ -1,0 +1,14 @@
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\bin\Debug\net6.0\ProgrammingTest.exe
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\bin\Debug\net6.0\ProgrammingTest.deps.json
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\bin\Debug\net6.0\ProgrammingTest.runtimeconfig.json
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\bin\Debug\net6.0\ProgrammingTest.dll
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\bin\Debug\net6.0\ProgrammingTest.pdb
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ProgrammingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ProgrammingTest.AssemblyInfoInputs.cache
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ProgrammingTest.AssemblyInfo.cs
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ProgrammingTest.csproj.CoreCompileInputs.cache
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ProgrammingTest.dll
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\refint\ProgrammingTest.dll
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ProgrammingTest.pdb
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ProgrammingTest.genruntimeconfig.cache
+C:\Users\zbcyomi\Documents\GitHub\CSharp-School\OOP\ProgrammingTest\ProgrammingTest\obj\Debug\net6.0\ref\ProgrammingTest.dll
